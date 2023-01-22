@@ -25,3 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Online version
+
+https://shopping-list-2dfa7.web.app/
+To view this app online use the login dad@email.com or mom@email.com and for both the password 123456 can be used
